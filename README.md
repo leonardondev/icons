@@ -1,11 +1,7 @@
 
 # adwaita-icon-theme customized
 
-<img src="./places/folder-snap.png" height="128em" />
-<img src="./places/folder-config.png" height="128em" />
-<img src="./places/folder-temp.png" height="128em" />
-<img src="./places/folder-code.png" height="128em" />
-<img src="./places/folder-windows.png" height="128em" />
+<img src="./places/folder-snap.png" height="128em" /> <img src="./places/folder-config.png" height="128em" /> <img src="./places/folder-temp.png" height="128em" /> <img src="./places/folder-code.png" height="128em" /> <img src="./places/folder-windows.png" height="128em" />
 
 
 # Cores
